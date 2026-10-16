@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and constantly sharpening my skills with new technologies.
+I'm a **BS Information Technology student** passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and constantly sharpening my skills with new technologies.
 
-- 🎓 Pursuing a **BS in Computer Science** at the **University of Sindh**
+- 🎓 Pursuing a **BS Information Technology** at the **University of Sindh**
 - 🔭 Working on **modern web applications and full-stack projects**
-- 🌱 Currently learning **Next.js, TypeScript, API integration, and advanced React.js**
+- 🌱 Currently Working **Next.js, TypeScript, API integration, and advanced React.js**
 - 🤝 Open to collaborating on **open-source and web development projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Next.js, TypeScript, and Tailwind CSS**
 - 🎯 **Current goal:** become a professional Frontend Developer
@@ -73,6 +73,10 @@ I'm a **Computer Science student** passionate about building modern, responsive,
 | 🍰 **Isabel's Edibles** | Food and recipe website with multi-page navigation | `React` `TypeScript` `Tailwind CSS` `React Router` |
 | 🌐 **Nexcent Landing Page** | Responsive business landing page, being enhanced with animations and interactivity | `React` `Tailwind CSS` |
 | 📝 **AI Blogging Application** | Blog and post management system | `PHP` `MySQL` |
+| 🧑‍💼 **Personal Portfolio Website** | Modern developer portfolio with project showcase, skills, and contact form | `Next.js` `TypeScript` `Tailwind CSS` |
+| 🌦️ **Weather App** | Real-time weather app with city search and 5-day forecast using a public API | `React` `TypeScript` `REST API` |
+| ✅ **Task Manager App** | Task tracking app with add, edit, delete, filters, and local storage persistence | `React` `Tailwind CSS` `JavaScript` |
+| 🛒 **E-Commerce Store UI** | Responsive online store with product listing, cart, and checkout flow | `Next.js` `TypeScript` `Tailwind CSS` |
 
 > 🔗 Visit my [repositories](https://github.com/ShahkarHussain?tab=repositories) to explore the code and follow my progress.
 
