@@ -10,7 +10,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ShahkarHussain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<a href="https://www.linkedin.com/in/shahkar-bhatti-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/Shahkar-Bhatti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shahkarhussain67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
