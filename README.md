@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shahkar%20Hussain%20Bhatti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shahkar+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Building+modern+web+apps+with+Next.js+%26+TypeScript+%F0%9F%9A%80;Future+AI+Engineer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shahkar+Hussain+%F0%9F%91%8B;Information+Technology+Student+%F0%9F%8E%93;Building+modern+web+apps+with+Next.js+%26+TypeScript+%F0%9F%9A%80;Future+AI+Engineer+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
