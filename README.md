@@ -1,86 +1,127 @@
-# Hi there 👋, I'm Shahkar Hussain Bhatti
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-### 💻 Frontend Developer | React.js | Next.js | TypeScript
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shahkar%20Hussain%20Bhatti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-I'm a Computer Science student at the **University of Sindh, Jamshoro, Pakistan**, passionate about building modern, responsive, and user-friendly web applications.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shahkar+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Building+modern+web+apps+with+Next.js+%26+TypeScript+%F0%9F%9A%80;Future+AI+Engineer+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
-I enjoy turning ideas into real-world projects using modern web technologies. I'm continuously improving my development skills and exploring new technologies to become a better software developer.
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=ShahkarHussain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<a href="https://www.linkedin.com/in/shahkar-bhatti-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shahkarhussain67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### 🚀 About Me
-
-- 🎓 I'm currently pursuing a **BS in Computer Science** at the University of Sindh.
-- 🔭 I'm working on **modern web applications and full-stack projects**.
-- 🌱 I'm currently learning **Next.js, TypeScript, API integration, and advanced React.js**.
-- 👨‍💻 I'm building projects to strengthen my frontend development skills.
-- 🤝 I'm looking to collaborate on **open-source projects and web development projects**.
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Next.js, TypeScript, and Tailwind CSS**.
-- 🎯 My current goal is to become a **professional Frontend Developer**.
-- 🤖 My future goal is to explore **Artificial Intelligence and AI Engineering**.
-- ⚡ Fun fact: I enjoy learning new technologies and turning creative ideas into code.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-#### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+I'm a **Computer Science student** passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and constantly sharpening my skills with new technologies.
 
-#### Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🎓 Pursuing a **BS in Computer Science** at the **University of Sindh**
+- 🔭 Working on **modern web applications and full-stack projects**
+- 🌱 Currently learning **Next.js, TypeScript, API integration, and advanced React.js**
+- 🤝 Open to collaborating on **open-source and web development projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Next.js, TypeScript, and Tailwind CSS**
+- 🎯 **Current goal:** become a professional Frontend Developer
+- 🤖 **Future goal:** explore Artificial Intelligence and AI Engineering
+- ⚡ **Fun fact:** I love turning creative ideas into code
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-Here are some projects I'm building and improving:
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-- 💰 **Personal Finance Dashboard** — A finance management application built with Next.js, TypeScript, Tailwind CSS, Prisma, and SQLite.
-- 🏡 **NOVA Real Estate Website** — A modern real estate landing page with elegant UI and responsive layouts.
-- 🍰 **Isabel's Edibles** — A food and recipe website built with React, TypeScript, Tailwind CSS, and React Router.
-- 🌐 **Nexcent Landing Page** — A responsive business landing page that I'm enhancing with modern design, animations, and interactive features.
-- 📝 **AI Blogging Application** — A PHP and MySQL project focused on blog and post management.
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
-*Visit my repositories to explore my code and follow my progress.*
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahkarHussain&show_icons=true&theme=tokyonight&hide_border=true)
+| Project | Description | Tech |
+|---|---|---|
+| 💰 **Personal Finance Dashboard** | Finance management app to track income, expenses, and budgets | `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `SQLite` |
+| 🏡 **NOVA Real Estate Website** | Modern real estate landing page with elegant UI and responsive layouts | `HTML` `CSS` `JavaScript` |
+| 🍰 **Isabel's Edibles** | Food and recipe website with multi-page navigation | `React` `TypeScript` `Tailwind CSS` `React Router` |
+| 🌐 **Nexcent Landing Page** | Responsive business landing page, being enhanced with animations and interactivity | `React` `Tailwind CSS` |
+| 📝 **AI Blogging Application** | Blog and post management system | `PHP` `MySQL` |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahkarHussain&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
----
-
-### 🤝 Connect With Me
-
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
-- 🐙 **GitHub:** [@ShahkarHussain](https://github.com/ShahkarHussain)
-- 📧 **Email:** Add your email address here
+> 🔗 Visit my [repositories](https://github.com/ShahkarHussain?tab=repositories) to explore the code and follow my progress.
 
 ---
 
-### 💡 My Developer Motto
+## 📊 GitHub Stats
 
-> "Learn continuously, build consistently, and turn ideas into reality."
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShahkarHussain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahkarHussain&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ShahkarHussain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+```text
+🌱 Learning     →  Next.js, TypeScript, API Integration, Advanced React
+🔨 Building     →  Full-stack projects & polished UI components
+🚀 Goal         →  Professional Frontend Developer
+🤖 Next         →  Artificial Intelligence & AI Engineering
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahkar-bhatti-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ShahkarHussain"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shahkarhussain67@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+## 💡 Developer Motto
+
+<div align="center">
+
+> *"Learn continuously, build consistently, and turn ideas into reality."*
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, share feedback, and connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
